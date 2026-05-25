@@ -10,7 +10,7 @@ from lhotse.dataset.sampling.base import TokenConstraint
 from lhotse.workarounds import Hdf5MemoryIssueFix
 from torch.utils.data import DataLoader
 
-from _toolbox.data.lhotse_datamodule import BaseLhotseDatamodule, _SeedWorkers
+from auden.data.lhotse_datamodule import BaseLhotseDatamodule, _SeedWorkers
 
 
 def estimate_cut_tokens(cut, audio_token_rate: float):
