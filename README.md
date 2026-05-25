@@ -53,7 +53,7 @@ Key parameters in `run.sh`:
 
 ## Instruction-Free Alignment-Only Training
 
-Install Audio & Multimodal Understanding Research Toolbox: [Auden](https://github.com/AudenAI/Auden):
+Install Audio & Multimodal Understanding Research Toolbox: [Auden](https://github.com/AudenAI/Auden)
 ```bash
 git clone https://github.com/AudenAI/Auden.git
 cd Auden
