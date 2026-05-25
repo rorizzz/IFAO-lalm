@@ -53,6 +53,13 @@ Key parameters in `run.sh`:
 
 ## Instruction-Free Alignment-Only Training
 
+Install Audio & Multimodal Understanding Research Toolbox: [Auden](https://github.com/AudenAI/Auden):
+```bash
+git clone https://github.com/AudenAI/Auden.git
+cd Auden
+pip install -e .
+```
+
 The audio encoder and the LLM stay fully frozen throughout. Only the projector is trained.
 
 ```bash
