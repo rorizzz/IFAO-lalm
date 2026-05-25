@@ -7,8 +7,8 @@ import torch
 import torch.nn as nn
 from torch.nn.parallel import DistributedDataParallel as DDP
 
-from _toolbox.trainer.ddp_trainer import BaseTrainer
-from _toolbox.utils.metric_tracker import MetricsTracker
+from auden.trainer.ddp_trainer import BaseTrainer
+from auden.utils.metric_tracker import MetricsTracker
 
 
 class LALMTrainer(BaseTrainer):
