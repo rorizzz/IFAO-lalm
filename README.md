@@ -199,7 +199,7 @@ id / predicted answer / reference answer
 ## Repository Layout
 
 ```
-instruction-free-lalm/
+IFAO-lalm/
 ├── lalm/                       # Core training & evaluation pipeline
 │   ├── build_model.py          # Assemble encoder + projector + LLM into an HF checkpoint
 │   ├── prepare_conversation.py # Attach conversation fields for alignment training
