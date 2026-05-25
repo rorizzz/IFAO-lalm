@@ -1,5 +1,7 @@
 # Alignment Is All You Need: Instruction-Free Training for General Audio-Language Models
 
+[![Model Alimeeting](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-IFAO-yellow)](https://huggingface.co/collections/eureka1500/ifao-lalm)
+
 <p align="center">
   <img src="assets/pipeline.jpg" width="85%" />
 </p>
