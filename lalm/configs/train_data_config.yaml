@@ -1,0 +1,3 @@
+- hours: 1351.1
+  manifest: data/train/captionstew400k_train.jsonl.gz
+  weights: 1

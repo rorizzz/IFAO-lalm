@@ -1,0 +1,2 @@
+- name: valid_data
+  manifest: /path/to/valid.jsonl.gz
